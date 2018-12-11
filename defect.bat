@@ -1,1 +1,0 @@
-echo " iam in defect"
